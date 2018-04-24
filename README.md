@@ -17,3 +17,5 @@ Use the 'crawl_sina_weibo.py' first to obtain all weibos in the search result. A
 Then use the 'crawl_sina_weibo_repost.py' to get every repost in the 'test4.xls'. By using this you will have to copy each element in the K colomn in 'test4.xls' into this code file.
 
 Finally you get a 'test_repost_2.xls'.
+
+One need to check always if your ip have banned, if so the console will tell your which page the crawler had gone.
