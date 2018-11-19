@@ -30,8 +30,8 @@ book_wr.save(r'repost.xls')
 
 
 headers = {
-        'cookie':'SCF=AuilS8C_l_Q4hcWzAntCupw6ySHu1JGSv06YfW1Q01YbXFuKIDQ-AbyRk_q7hteQzIb07nK0gJtceZM9F-G_aB4.; _T_WM=3e357b698836f1d3b5c126c4bf9138fc; SUB=_2A252S4HwDeRhGeBL61cS8S_Nyj-IHXVVty-4rDV6PUJbkdBeLW6kkW1NR06S8mnW27rUMebk6dSAlGJF-6SmrL7N; SUHB=0d4-eYtAjaj-SH',
-        'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'
+        'cookie':'abcdefg',
+        'user-agent':'higklmn'
         }
 
 bid_list = read_bid.get_bid('content2.xls', 261, 294)
